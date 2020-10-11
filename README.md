@@ -8,5 +8,5 @@ Examples of seasonal time series forecasting using ARIMA model in Python and R
 
 # R
 
-![R]("ARIMA_forecast_in_R.png")
+![R](ARIMA_forecast_in_R.png)
 
